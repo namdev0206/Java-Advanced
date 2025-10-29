@@ -1,0 +1,40 @@
+.dv
+{
+	text-align: center;
+	margin-top: 2.4vw;
+}
+
+.dvv
+{
+	text-align: center;
+	margin-top: 1vw;
+}
+
+.lam
+{
+	font-size: 2vw;
+	font-family: cursive;
+}
+
+.tts
+{
+	font-size: 1.7vw;
+	border-radius: 5px;
+	width: 25%;
+}
+
+.bt
+{
+	padding: 5px 15px;
+	border-radius: 10px;
+	font-size: 1.5vw;
+	background-color: blue;
+	color: white;
+	border: none;
+	cursor: hand;
+}
+
+span
+{
+	color: red;
+}
